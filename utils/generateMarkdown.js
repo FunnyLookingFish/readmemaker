@@ -73,7 +73,7 @@ function generateMarkdown(answers) {
 
   ## Questions
   Any questions on the project should be directed to: 
-  [${answers.github}](https://github.com/users/${answers.github})
+  [${answers.github}](https://github.com/${answers.github})
   `;
 }
 
